@@ -1,7 +1,14 @@
 #include <bits/stdc++.h>
 #define ll long long
 #define ld long double
-const int32_t mod = 1e9 + 7; 
+const int32_t mod = 1e9 + 7;
+#define endl "/n"
+#define YES cout << "Yes" << endl;
+#define NO cout << "No" << endl;
+#define rep(i, a, b) for (int i = a; i < b; i++)
+#define all(v) (v).begin(), (v).end()
+#define pb push_back
+#define pop pop_back
 
 using namespace std;
 
