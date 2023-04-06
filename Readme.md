@@ -2,8 +2,8 @@ C++ cheat sheet for CP
 
 ## CP Handles
 
-[3🌟 at CodeChef (max: 1639)] 
-[1508 at LeetCode]
+[3🌟 at CodeChef (max: 1639)] <br />
+[1508 at LeetCode] <br />
 [Newbie at CodeForces (max: 1027)] 
 
 1. https://www.codechef.com/users/parikh_krish02 
